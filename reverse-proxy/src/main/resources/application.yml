@@ -12,3 +12,4 @@ zuul:
     service0: /service0/**
     service1: /service1/**
 
+##更新ereka负载
